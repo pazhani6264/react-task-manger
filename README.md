@@ -1,9 +1,14 @@
-REACT TASK MANGER :- 
-Setup Instruction :
+# React Task Manager
+
+A simple React-based task management application.
+
+---
+
+## 🚀 Setup Instructions
 
 Open Terminal & Clone Project 
-git clone https://github.com/pazhani6264/react-task-manger.git 
-cd task-manager
+git clone https://github.com/pazhani6264/react-task-manger.git
+cd react-task-manger
 
 Install Node Modules 
 npm install
