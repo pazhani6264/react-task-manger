@@ -6,15 +6,23 @@ A simple React-based task management application.
 
 ## 🚀 Setup Instructions
 
-Open Terminal & Clone Project 
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/pazhani6264/react-task-manger.git
 cd react-task-manger
-
-Install Node Modules 
+```
+### 2. Install Node Modules
+```bash
 npm install
+```
 
-Run The Project 
+### 3. Run The Project 
+```bash
 npm start
+```
 
-Open Browser & Paste Address 
+### 4. Open Browser & Paste Address 
+```bash
 http://localhost:3000
+```
